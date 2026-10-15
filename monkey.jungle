@@ -1,10 +1,1 @@
 project.manifest = manifest.xml
-
-#base.sourcePath = source
-#edge1040.sourcePath = $(edge1040.sourcePath)
-#edge1040.resourcePath = $(edge1040.resourcePath)
-#edge1040.excludeAnnotations = noalert
-
-#edge840.sourcePath = $(edge840.sourcePath)
-#edge840.resourcePath = $(edge840.resourcePath)
-#edge840.excludeAnnotations = noalert

@@ -1,4 +1,6 @@
 <strings>
+    <string id="AppName" translatable="false">Everest</string>
+
     <string id="radiusTitle" scope="settings">Umkreis in Metern</string>
     <string id="gpsFormatTitle" scope="settings">Koordinaten-Format</string>
 

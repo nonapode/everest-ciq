@@ -1,0 +1,34 @@
+<strings>
+    <string id="AppName" translatable="false">AppName</string>
+    <string id="radiusTitle" scope="settings">radiusTitle</string>
+    <string id="gpsFormatTitle" scope="settings">gpsFormatTitle</string>
+
+    <string id="segmentTopTitle" scope="settings">segmentTopTitle</string>
+    <string id="segmentTopDescription" scope="settings">segmentTopDescription</string>
+
+    <string id="segmentBotTitle" scope="settings">segmentBotTitle</string>
+    <string id="segmentBotDescription" scope="settings">segmentBotDescription</string>
+
+    <string id="latitude" scope="settings" translatable="false">latitude</string>
+    <string id="longitude" scope="settings" translatable="false">longitude</string>
+
+    <string id="ascentTitle" scope="settings">ascentTitle</string>
+    <string id="ascentsTitle" scope="settings">ascentsTitle</string>
+
+    <string id="fitAscentTitle" scope="settings">fitAscentTitle</string>
+    <string id="fitAscentDescription" scope="settings">fitAscentDescription</string>
+    <string id="fitDescentTitle" scope="settings">fitDescentTitle</string>
+    <string id="fitDescentDescription" scope="settings">fitDescentDescription</string>
+
+    <string id="fitMaxTitle" scope="settings" translatable="false">fitMaxTitle</string>
+    <string id="fitMeanTitle" scope="settings" translatable="false">fitMeanTitle</string>
+    <string id="fitMinTitle" scope="settings" translatable="false">fitMinTitle</string>
+
+    <string id="AscentMeanLabel">AscentMeanLabel</string>
+    <string id="AscentMaxLabel">AscentMaxLabel</string>
+    <string id="AscentMinLabel">AscentMinLabel</string>
+    <string id="DescentMeanLabel">DescentMeanLabel</string>
+    <string id="DescentMaxLabel">DescentMaxLabel</string>
+    <string id="DescentMinLabel">DescentMinLabel</string>
+    <string id="Seconds">Seconds</string>
+</strings>
