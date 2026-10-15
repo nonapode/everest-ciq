@@ -1,0 +1,14 @@
+<fitContributions>
+    <fitField id="0" sortOrder="0" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.AscentMeanLabel" unitLabel="@Strings.Seconds" />
+    <fitField id="1" sortOrder="1" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.AscentMinLabel" unitLabel="@Strings.Seconds" />
+    <fitField id="2" sortOrder="2" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.AscentMaxLabel" unitLabel="@Strings.Seconds" />
+    <fitField id="3" sortOrder="3" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.DescentMeanLabel" unitLabel="@Strings.Seconds" />
+    <fitField id="4" sortOrder="4" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.DescentMinLabel" unitLabel="@Strings.Seconds" />
+    <fitField id="5" sortOrder="5" displayInChart="false" displayInActivityLaps="false" displayInActivitySummary="true"
+        dataLabel="@Strings.DescentMaxLabel" unitLabel="@Strings.Seconds" />
+</fitContributions>

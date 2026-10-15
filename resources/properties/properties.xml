@@ -1,0 +1,25 @@
+<properties>
+    <property id="ascent" type="double">86</property>
+    <property id="ascents" type="number">105</property>
+
+    <property id="radius" type="double">15.0</property>
+    <property id="gpsFormat" type="number">0</property>
+
+    <property id="segmentTopLatitude" type="double">49.57480171232313</property>
+    <property id="segmentTopLongitude" type="double">11.701206327230679</property>
+
+    <property id="segmentBotLatitude" type="double">49.56923988735744</property>
+    <property id="segmentBotLongitude" type="double">11.712261539721053</property>
+
+    <property id="gpsFormatDegrees" type="number">0</property>
+    <property id="gpsFormatRadians" type="number">1</property>
+    <property id="gpsFormatSemicircles" type="number">2</property>
+
+    <property id="fitAscentMean" type="boolean">true</property>
+    <property id="fitAscentMin" type="boolean">true</property>
+    <property id="fitAscentMax" type="boolean">true</property>
+
+    <property id="fitDescentMean" type="boolean">true</property>
+    <property id="fitDescentMin" type="boolean">true</property>
+    <property id="fitDescentMax" type="boolean">true</property>
+</properties>

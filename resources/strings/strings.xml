@@ -1,0 +1,35 @@
+<strings>
+    <string id="AppName" translatable="false">Everest</string>
+
+    <string id="radiusTitle" scope="settings">Radius (in meters)</string>
+    <string id="gpsFormatTitle" scope="settings">Coordinate Format</string>
+
+    <string id="segmentTopTitle" scope="settings">Top of Segment</string>
+    <string id="segmentTopDescription" scope="settings">GPS Coordinate of the top location in the correct format</string>
+
+    <string id="segmentBotTitle" scope="settings">Bottom of Segment</string>
+    <string id="segmentBotDescription" scope="settings">GPS Coordinate of the bottom location in the correct format</string>
+
+    <string id="latitude" scope="settings" translatable="false">Latitude</string>
+    <string id="longitude" scope="settings" translatable="false">Longitude</string>
+
+    <string id="ascentTitle" scope="settings">Ascent</string>
+    <string id="ascentsTitle" scope="settings">Iterations</string>
+
+    <string id="fitAscentTitle" scope="settings">FIT Contributions: Ascent</string>
+    <string id="fitAscentDescription" scope="settings">Select which ascent information should be recorded</string>
+    <string id="fitDescentTitle" scope="settings">FIT Contributions: Descent</string>
+    <string id="fitDescentDescription" scope="settings">Select which descent information should be recorded</string>
+
+    <string id="fitMaxTitle" scope="settings" translatable="false">maximum</string>
+    <string id="fitMeanTitle" scope="settings" translatable="false">arithmetic mean</string>
+    <string id="fitMinTitle" scope="settings" translatable="false">minimum</string>
+
+    <string id="AscentMeanLabel">Ascent Mean</string>
+    <string id="AscentMaxLabel">Ascent Max</string>
+    <string id="AscentMinLabel">Ascent Min</string>
+    <string id="DescentMeanLabel">Descent Mean</string>
+    <string id="DescentMaxLabel">Descent Max</string>
+    <string id="DescentMinLabel">Descent Min</string>
+    <string id="Seconds">seconds</string>
+</strings>

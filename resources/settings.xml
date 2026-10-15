@@ -1,0 +1,59 @@
+<settings>
+    <setting propertyKey="@Properties.radius" title="@Strings.radiusTitle">
+        <settingConfig type="numeric" />
+    </setting>
+    <setting propertyKey="@Properties.ascents" title="@Strings.ascentsTitle">
+        <settingConfig type="numeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.ascent" title="@Strings.ascentTitle">
+        <settingConfig type="numeric" />
+    </setting>
+    <setting propertyKey="@Properties.gpsFormat" title="@Strings.gpsFormatTitle">
+        <settingConfig type="list">
+            <listEntry value="0">Degrees</listEntry>
+            <listEntry value="1">Radians</listEntry>
+            <listEntry value="2">Semicircles</listEntry>
+        </settingConfig>
+    </setting>
+    <group id="segmentTop" title="@Strings.segmentTopTitle" description="@Strings.segmentTopDescription" >
+        <setting propertyKey="@Properties.segmentTopLatitude" title="@Strings.latitude">
+            <settingConfig type="numeric" />
+        </setting>
+        <setting propertyKey="@Properties.segmentTopLongitude" title="@Strings.longitude">
+            <settingConfig type="numeric" />
+        </setting>
+    </group>
+    <group id="segmentBot" title="@Strings.segmentBotTitle" description="@Strings.segmentBotDescription" >
+        <setting propertyKey="@Properties.segmentBotLatitude" title="@Strings.latitude">
+            <settingConfig type="numeric" />
+        </setting>
+        <setting propertyKey="@Properties.segmentBotLongitude" title="@Strings.longitude">
+            <settingConfig type="numeric" />
+        </setting>
+    </group>
+
+    <group id="fitAscent" title="@Strings.fitAscentTitle" description="@Strings.fitAscentDescription">
+        <setting propertyKey="@Properties.fitAscentMean" title="@Strings.fitMeanTitle">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.fitAscentMax" title="@Strings.fitMaxTitle">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.fitAscentMin" title="@Strings.fitMinTitle">
+            <settingConfig type="boolean" />
+        </setting>
+    </group>
+
+    <group id="fitDescent" title="@Strings.fitDescentTitle" description="@Strings.fitDescentDescription">
+        <setting propertyKey="@Properties.fitDescentMean" title="@Strings.fitMeanTitle">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.fitDescentMax" title="@Strings.fitMaxTitle">
+            <settingConfig type="boolean" />
+        </setting>
+        <setting propertyKey="@Properties.fitDescentMin" title="@Strings.fitMinTitle">
+            <settingConfig type="boolean" />
+        </setting>
+    </group>
+</settings>

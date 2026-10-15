@@ -1,0 +1,30 @@
+<strings>
+    <string id="radiusTitle" scope="settings">Umkreis in Metern</string>
+    <string id="gpsFormatTitle" scope="settings">Koordinaten-Format</string>
+
+    <string id="segmentTopTitle" scope="settings">Oberer Segmentpunkt</string>
+    <string id="segmentTopDescription" scope="settings">GPS-Koordinate des oberen Segmentpunktes</string>
+
+    <string id="segmentBotTitle" scope="settings">Unterer Segmentpunkt</string>
+    <string id="segmentBotDescription" scope="settings">GPS-Koordinate des unteren Segmentpunktes</string>
+
+    <string id="ascentTitle" scope="settings">Anstieg je Segment</string>
+    <string id="ascentsTitle" scope="settings">Wiederholungen</string>
+
+    <string id="fitAscentTitle" scope="settings">FIT Felder: Anstieg</string>
+    <string id="fitAscentDescription" scope="settings">Welche Anstiegs-Informationen sollen aufgezeichnet werden?</string>
+    <string id="fitDescentTitle" scope="settings">FIT Felder: Abfahrt</string>
+    <string id="fitDescentDescription" scope="settings">Welche Abfahrts-Informationen sollen aufgezeichnet werden?</string>
+
+    <string id="fitMaxTitle" scope="settings">Maximum</string>
+    <string id="fitMeanTitle" scope="settings">Mittelwert</string>
+    <string id="fitMinTitle" scope="settings">Minimum</string>
+
+    <string id="AscentMeanLabel">Anstieg Durchschnitt</string>
+    <string id="AscentMaxLabel">Anstieg Max</string>
+    <string id="AscentMinLabel">Anstieg Min</string>
+    <string id="DescentMeanLabel">Abfahrt Durchschnitt</string>
+    <string id="DescentMaxLabel">Abfahrt Max</string>
+    <string id="DescentMinLabel">Abfahrt Min</string>
+    <string id="Seconds">Sekunden</string>
+</strings>
